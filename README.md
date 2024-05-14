@@ -2,7 +2,8 @@
 
 1. Download Python Installer:
 
-- Go to the official Python website at python.org.
+- Go to the official Python website at [python.org](https://www.python.org/)
+.
 - Click on the "Downloads" tab and select the version of Python you want to install (e.g., Python 3.9.5).
 
 
