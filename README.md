@@ -1,8 +1,4 @@
-# python
-Write a step-by-step tutorial on installing python
-
-
-Step-by-Step Tutorial on Installing Python
+# Step-by-Step Tutorial on Installing Python
 
 1. Download Python Installer:
 
