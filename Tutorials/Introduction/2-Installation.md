@@ -1,4 +1,3 @@
-
 ---
 
   
@@ -24,7 +23,7 @@ Once the download is complete, locate the downloaded file and double-click to ru
 
   
 
-![Python Installer](python_installer.png)
+![Python Installer](https://github.com/musabe/learning-python/blob/main/images/install/0.jpg)
 
   
 
