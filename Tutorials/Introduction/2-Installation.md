@@ -1,3 +1,13 @@
+
+---
+
+  
+
+# Step-by-Step Guide to Install Python
+
+  
+
+
 ## Step 1: Download Python Installer
 
   
@@ -26,7 +36,9 @@ You may choose to customize the installation by clicking on "Customize installat
 
   
 
-![Customize Installation]((https://github.com/musabe/learning-python/blob/main/images/install/1.jpg)
+![Customize Installation](https://github.com/musabe/learning-python/blob/main/images/install/1.jpg)
+
+![Customize Installation](https://github.com/musabe/learning-python/blob/main/images/install/2.jpg)
 
   
 
@@ -38,7 +50,7 @@ Choose the installation options according to your preferences. Ensure that "Add 
 
   
 
-![Installation Options](https://github.com/musabe/learning-python/blob/main/images/install/2.jpg)
+![Installation Options](https://github.com/musabe/learning-python/blob/main/images/install/3.jpg)
 
   
 
@@ -94,31 +106,3 @@ If Python is installed correctly, you should see the installed version number.
 You have successfully installed Python on your system. You can now start writing and running Python code.
 
   
-
----
-
-  
-
-Feel free to adjust the formatting and add more details or screenshots as needed. Let me know if you need further assistance!
-3.  **Verify Installation:**
-    
-    -   Open a command prompt or terminal window.
-    -   Type `python --version` and press Enter to check if Python is installed correctly.
-    -   You should see the version number of Python displayed on the screen.
-4.  **Set Up Environment Variables (Optional):**
-    
-    -   To set up environment variables, search for "environment variables" in the Windows search bar.
-    -   Click on "Edit the system environment variables."
-    -   In the System Properties window, click on the "Environment Variables" button.
-    -   Under System Variables, click on "New" and add a new variable named "PYTHONPATH" with the path to your Python installation directory.
-5.  **Install a Code Editor (Optional):**
-    
-    -   You can use any text editor to write Python code, but a code editor like Visual Studio Code or PyCharm provides additional features.
-    -   Download and install your preferred code editor from their official website.
-6.  **Start Coding:**
-    
-    -   Open your code editor and create a new Python file (with a `.py` extension).
-    -   Write your Python code in the editor.
-    -   Save the file and run it using the command prompt or terminal by typing `python filename.py`.
-
-You have now successfully installed Python on your system and can start coding in this versatile programming language!
